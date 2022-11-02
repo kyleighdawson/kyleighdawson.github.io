@@ -11,10 +11,8 @@ header, footer {
   background-color: #ffa500;
   text-align: left;
   /*min-width: 500px;*/
-  font-family: Work Sans;
-  color: #fff;
-  min-height: 100vh;
-  display: flex;
+  text-align: left;
+  /*min-width: 500; px*/
 }
 header {
   font-family: Work Sans;
