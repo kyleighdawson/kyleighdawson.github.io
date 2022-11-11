@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #cce3de;
+  background-color: #143601;
   text-align: left;
   /*min-width: 500px;*/
   text-align: left;
@@ -157,4 +157,7 @@ footer {
   img {
     height: 40vh;
   }
+  a {
+  color: #8fb996;
+}
 }
