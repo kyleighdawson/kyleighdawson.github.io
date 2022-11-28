@@ -21,6 +21,7 @@ header {
   color: #fff;
   min-height: 100vh;
   display: flex;
+  text-align: center;
 }
 
 main {
@@ -36,7 +37,7 @@ main {
 }
 h1 {
   font-family: Barlow Condensed;
-  font-size: calc(1em + 3vw);
+  font-size: calc(1em + 4vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
   line-height: 1.3;
@@ -162,6 +163,12 @@ img {
   main {
     grid-template-columns: 1fr;
     margin: 44px auto;
+    }
+    .description {
+      font-size: 18px;
+    }
+    img {
+      height: 25vh;
     }
   }
   img {
